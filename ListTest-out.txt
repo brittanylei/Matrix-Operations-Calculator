@@ -1,0 +1,45 @@
+
+List of tests passed/failed:
+
+Empty_length PASSED
+Append_length PASSED
+Prepend_length PASSED
+InsertAfter_length PASSED
+InsertBefore_length PASSED
+DeleteFront_length PASSED
+DeleteBack_length PASSED
+Delete_length PASSED
+EmptyList_index PASSED
+MoveFront_index PASSED
+MoveBack_index PASSED
+MoveNext_index PASSED
+MovePrev_index PASSED
+Append_index PASSED
+Prepend_index PASSED
+InsertAfter_index PASSED
+InsertBefore_index PASSED
+DeleteFront_index PASSED
+DeleteBack_index PASSED
+Delete_index PASSED
+Append_equals PASSED
+Prepend_equals PASSED
+InsertAfter_equals PASSED
+InsertBefore_equals PASSED
+DeleteFront_equals PASSED
+DeleteBack_equals PASSED
+Delete_equals PASSED
+Empty_clear PASSED
+NonEmpty_clear PASSED
+Set_get PASSED
+Set_front PASSED
+NonEmpty_front PASSED
+Set_back PASSED
+NonEmpty_back PASSED
+Empty_toString PASSED
+NonEmpty_toString PASSED
+
+
+Passed 36 tests out of 36 possible
+
+This gives you a score of 10 out of 10 for this component of the assignment
+

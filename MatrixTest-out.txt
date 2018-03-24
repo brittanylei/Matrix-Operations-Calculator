@@ -1,0 +1,23 @@
+
+List of tests passed/failed:
+
+Empty_getSize PASSED
+NonEmpty_getSize PASSED
+Empty_getNNZ PASSED
+makeZero_getNNZ PASSED
+changeEntry_getNNZ PASSED
+copy_getNNZ PASSED
+transpose_getNNZ PASSED
+add_getNNZ PASSED
+sub_getNNZ PASSED
+scalarMult_getNNZ PASSED
+mult_getNNZ PASSED
+Empty_equals PASSED
+NonEmpty_equals PASSED
+Empty_toString PASSED
+NonEmpty_toString PASSED
+
+Passed 15 tests out of 15 possible
+
+This gives you a score of 60 out of 60 for MatrixTest
+

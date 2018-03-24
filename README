@@ -1,0 +1,16 @@
+Brittany Lei bclei
+CMPS101 Programming Assignment 3
+
+Sparse.java takes an input file and an output file and builds two matrices, A and B, according to the specifications in the input file. Using Matrix methods, it prints several computations using the two matrices.
+
+Matrix.java is a Matrix ADT that will be used in Sparse
+
+List.java is an Object List ADT that will be used to hold the Entries for the Matrix
+
+MatrixTest.java tests the methods of Matrix in isolation
+
+ListTest.java tests the methods of List in isolation
+
+Makefile creates executable jar file Sparse
+
+README
